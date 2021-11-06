@@ -1,0 +1,58 @@
+body {
+
+	background-color: #5bdec6;
+}
+
+
+
+h1 {
+
+	text-align: center;
+	font-size: 90px;
+	font-family: serif;
+	font-style: italic;
+	color: #bf5f15;
+
+}
+
+
+h4{
+
+
+	text-align: right;
+	}
+
+
+h5{
+
+	text-align: left;
+	bottom: 0pt;
+	position: absolute;
+
+}
+
+h6 {
+
+
+	text-align: left;
+}
+
+p{
+	font-family: sans-serif;
+	font-weight: 700;
+}
+
+a{
+	text-decoration: none;
+}
+
+h2{
+	font-size: 50px;
+	font-family: sans-serif;
+	color: #06541b;
+	text-decoration: underline overline;
+}
+
+table{
+	background-color: #7ff5df;
+}

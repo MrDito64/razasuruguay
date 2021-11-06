@@ -1,0 +1,56 @@
+body {
+
+	background-color: #5bdec6;
+}
+
+
+
+h1 {
+
+	text-align: center;
+	font-size: 90px;
+	font-family: serif;
+	font-style: italic;
+	color: #bf5f15;
+
+}
+
+h2{
+
+	text-align: center;
+}
+
+
+h3{
+
+	text-align: center;
+}
+
+
+
+
+h{
+
+	text-align: left;
+	bottom: 0pt;
+	position: absolute;
+
+}
+
+h6 {
+
+
+	text-align: left;
+}
+
+p{
+	font-size: 21px;
+}
+
+a{
+	text-decoration: none;
+}
+
+table{
+	background-color: #7ff5df;
+}
